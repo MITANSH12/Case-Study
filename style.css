@@ -1,0 +1,42 @@
+img {
+    width: 40px;
+    height: 40px;
+}
+body {
+    background-color: gray;
+}
+#lens {
+    background-color: white;
+    border-radius: 100px!important;
+    margin-bottom: 200px;
+    
+    
+}
+#lens:hover {
+cursor: default;
+}
+#mn:hover {
+    cursor: default;
+    }
+
+#mn {
+ height: auto;
+ width: auto;
+ background-color: white;
+ border-radius: 100px!important;
+ margin-bottom:200px;
+ 
+}
+#mn img {
+    height: 40px;
+    width: 70px;
+}
+#mn {
+    margin-right: -70px;
+    margin-left: 20px;
+}
+#cube {
+    height: 300px;
+    width: 300px;
+    
+}
